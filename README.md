@@ -1,3 +1,3 @@
 # mynew
 repo for pratice
-by-aakansha rawat
+written by-aakansha rawat
